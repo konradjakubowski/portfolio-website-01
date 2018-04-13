@@ -1,2 +1,3 @@
-# Konrad_Jakubowski_Portfolio #00
-Website created with plain HTML and CSS. No frameworks.
+A Portfolio Project. Website created using HTML5 and pure CSS. No frameworks:
+
+https://konradjakubowski.github.io/portfolio-website-01/
